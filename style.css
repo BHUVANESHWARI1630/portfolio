@@ -22,11 +22,10 @@
 
 
 .container {
-  height: 1500px;
   max-width: 900px;
-  padding: 20px;
-  overflow-x: hidden;
+  height: 1500px;
   margin: 40px auto;
+  padding: 20px;
   background: #fff;
   border-radius: 15px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
@@ -37,7 +36,7 @@
   box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);       /* Soft shadow like floating */
   border-radius: 25px;
   padding: 30px;
-  color: #222;                                      
+  color: #222;                        
 }
 
 .profile {
