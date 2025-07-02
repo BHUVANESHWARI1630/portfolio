@@ -22,8 +22,8 @@
 
 
 .container {
-  max-width: 900px;
-  height: 1500px;
+  max-width: 800px;
+  height: auto;
   margin: 40px auto;
   padding: 20px;
   background: #fff;
